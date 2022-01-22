@@ -1,4 +1,4 @@
-# ColorCord
+# Colorcord
 A Code that allows you to get Rainbow Roles using a Discord Bot
 
 ## Usage : 
@@ -44,4 +44,4 @@ This Code is from [this tutorial](https://www.youtube.com/watch?v=3O37GA75ICg). 
 
 ----
 
-> ColorCord © 2021 by SealedSaucer is licensed under Attribution 4.0 International 
+> Colorcord © 2021 by SealedSaucer is licensed under Attribution 4.0 International 
